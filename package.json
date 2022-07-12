@@ -1,0 +1,22 @@
+{
+  "name": "slot-online",
+  "theme": "ui",
+  "version": "2.3.0",
+  "description": "slot online",
+  "keywords": [
+    "slot",
+    "asiahoki77",
+    "asia hoki",
+    "slot gacor hari ini",
+    "slot gacor",
+    "slot online",
+    "situs slot gacor",
+    "daftar situs gacor",
+    "slot online gacor"
+  ],
+  "repository": "https://github.com/hellopinyapple/asiahoki-slot-gacor.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
